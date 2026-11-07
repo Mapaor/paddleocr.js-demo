@@ -10,7 +10,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@paddleocr/paddleocr-js": "file:./paddleocr-js/packages/core",
+    "@paddleocr/paddleocr-js": "^0.4.2",
     "@techstark/opencv-js": "4.10.0-release.1",
     "@types/js-yaml": "^4.0.9",
     "clipper-lib": "^6.4.2",
