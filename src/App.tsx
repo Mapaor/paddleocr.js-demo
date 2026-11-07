@@ -46,7 +46,6 @@ function App() {
     return () => {
       active = false
       if (engine.current) void engine.current.dispose()
-      if (previewUrl) URL.revokeObjectURL(previewUrl)
     }
   }, [])
 

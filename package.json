@@ -11,6 +11,11 @@
   },
   "dependencies": {
     "@paddleocr/paddleocr-js": "file:./paddleocr-js/packages/core",
+    "@techstark/opencv-js": "4.10.0-release.1",
+    "@types/js-yaml": "^4.0.9",
+    "clipper-lib": "^6.4.2",
+    "js-yaml": "^4.3.2",
+    "onnxruntime-web": "^1.31.1",
     "react": "^19.3.1",
     "react-dom": "^19.3.1"
   },
